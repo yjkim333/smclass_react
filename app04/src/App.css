@@ -1,0 +1,22 @@
+.main{
+  width: 800px;
+  margin:40px auto;
+}
+h2{
+  text-align: center;
+  color: #283768;
+  font-weight: 800;
+  margin-bottom: 40px;
+}
+.card{
+  margin-bottom: 10px;
+}
+.card-header{
+  color: white;
+  font-weight: 700;
+  background: #444;
+}
+
+.mt{
+  margin-right: 10px;
+}
