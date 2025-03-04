@@ -2,6 +2,10 @@
   width: 800px;
   margin:40px auto;
 }
+.home{
+  width: 100%;
+  margin:40px auto;
+}
 h2{
   text-align: center;
   color: #283768;
@@ -25,5 +29,28 @@ form{
   margin-bottom: 60px;
 }
 form button{
+  width: 100%;
+}
+
+.navbar-brand{
+  font-size: 28px;
+  font-weight: 900;
+  color: green;
+}
+
+.navbar{
+  height: 80px;
+}
+.nav-link:hover{
+  font-weight: 600;
+  color: green;
+}
+
+.d-flex{
+  margin-top: 60px;
+}
+
+
+.img img{
   width: 100%;
 }
